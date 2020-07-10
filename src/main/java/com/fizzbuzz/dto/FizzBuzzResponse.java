@@ -89,14 +89,5 @@ public class FizzBuzzResponse {
 			return false;
 		return true;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 }

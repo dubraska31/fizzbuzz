@@ -27,7 +27,5 @@ public class FizzBuzzController {
 	public List<FizzBuzzTransacciones> getTransacciones() {
 		
 		return fizzBuzzService.getTransacciones();
-	}
-	
-	
+	}	
 }
